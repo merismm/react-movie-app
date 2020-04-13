@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: sans-serif;
+}
+
+.details-margin { 
+  margin: 2em;
+}
+
+.image-width {
+  width: 15%;
+}
