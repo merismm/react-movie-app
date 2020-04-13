@@ -8,11 +8,15 @@ Please use TheMovieDB API found at https://developers.themoviedb.org/3 to implem
 This project was started with https://github.com/react-cosmos/create-react-app-example
 
 Commands:
+
 npm install
+
 npm install eslint@4.x babel-eslint@8 --save-dev
+
 npm start
 
 Command for eslint
+
 yarn lint
 
 
